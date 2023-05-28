@@ -1,0 +1,10 @@
+@media (max-width: 720px){
+  .container__menu-bar > ul{
+    display: flex;
+    justify-content: center;
+  }
+  .container__menu-bar > ul > li > a{
+    color: blueviolet;
+
+  }
+}

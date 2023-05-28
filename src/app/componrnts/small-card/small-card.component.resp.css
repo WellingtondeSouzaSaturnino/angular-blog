@@ -1,0 +1,13 @@
+@media (max-width: 720px){
+  .small-card__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 440px;
+  }
+  .small-card__title > h1 > a{
+    font-size: 25px;
+    color: aqua;
+    margin-left:10px ;
+  }
+}

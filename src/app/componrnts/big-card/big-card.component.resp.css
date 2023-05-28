@@ -1,0 +1,10 @@
+
+@media (max-width: 720px){
+  .big-card__description > p > a{
+    color: yellowgreen;
+  }
+.big-card__photo > img{
+  width: 100%;
+
+}
+}
